@@ -4,6 +4,9 @@
   "author": "Ward Lootens",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "build": "webpack"
+  },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.12.0",
     "bootstrap": "3.4.1",
